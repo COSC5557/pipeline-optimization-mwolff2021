@@ -60,3 +60,38 @@ determination.
 
 Add your report and code to this repository. Bonus points if you can set up a
 Github action to automatically run the code and generate the report!
+
+## References
+https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html
+https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+https://scikit-learn.org/stable/modules/preprocessing.html
+https://www.geeksforgeeks.org/quick-guide-to-exploratory-data-analysis-using-jupyter-notebook/
+https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
+https://scikit-learn.org/stable/auto_examples/compose/plot_digits_pipe.html#sphx-glr-auto-examples-compose-plot-digits-pipe-py
+https://scikit-learn.org/stable/auto_examples/compose/plot_compare_reduction.html#sphx-glr-auto-examples-compose-plot-compare-reduction-py
+https://machinelearningmastery.com/modeling-pipeline-optimization-with-scikit-learn/
+https://machinelearningmastery.com/modeling-pipeline-optimization-with-scikit-learn/
+https://medium.com/mlearning-ai/how-to-use-sklearns-pipelines-to-optimize-your-analysis-b6cd91999be
+https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.make_pipeline.html
+https://scikit-learn.org/stable/modules/grid_search.
+https://scikit-learn.org/stable/modules/compose.html#pipeline
+https://medium.com/@kocur4d/hyper-parameter-tuning-with-pipelines-5310aff069d6
+https://towardsdatascience.com/getting-the-most-out-of-scikit-learn-pipelines-c2afc4410f1a
+https://stackoverflow.com/questions/69035959/passthrough-all-columns-in-sklearn-pipeline
+https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/
+https://stackoverflow.com/questions/43366561/use-sklearns-gridsearchcv-with-a-pipeline-preprocessing-just-once
+https://stackoverflow.com/questions/37021338/gridsearch-in-pipeline?rq=3
+https://stackoverflow.com/questions/62331674/sklearn-combine-gridsearchcv-with-column-transform-and-pipeline?rq=3
+https://stackoverflow.com/questions/21050110/sklearn-gridsearchcv-with-pipeline?rq=3
+https://stackoverflow.com/questions/23045318/grid-search-over-multiple-classifiers
+https://hyperopt.github.io/hyperopt/
+https://stackoverflow.com/questions/51629153/more-than-one-estimator-in-gridsearchcvsklearn/51629917#51629917
+https://www.davidsbatista.net/blog/2018/02/23/model_optimization/
+https://stackoverflow.com/questions/51629153/more-than-one-estimator-in-gridsearchcvsklearn?noredirect=1&lq=1
+https://stackoverflow.com/questions/65189909/grid-search-preprocess-multiple-hyperparameters-and-multiple-estimators?rq=3
+
+
+
+
+
