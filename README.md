@@ -90,7 +90,9 @@ https://stackoverflow.com/questions/51629153/more-than-one-estimator-in-gridsear
 https://www.davidsbatista.net/blog/2018/02/23/model_optimization/
 https://stackoverflow.com/questions/51629153/more-than-one-estimator-in-gridsearchcvsklearn?noredirect=1&lq=1
 https://stackoverflow.com/questions/65189909/grid-search-preprocess-multiple-hyperparameters-and-multiple-estimators?rq=3
-
+https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeClassifier.html
+https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
 
 
 
